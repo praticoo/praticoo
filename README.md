@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratico</h1>
+- 🔭 I’m currently studying **Computer Science**
+- 📫 How to reach me **patricktrovatosalinaro13@gmail.com**
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
