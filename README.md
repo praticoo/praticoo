@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratico</h1>
-<h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/non_patrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="non_patrick" height="30" width="40" /></a>
 </p>
