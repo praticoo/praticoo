@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratico</h1>
 
-- 🖥️ Graduate in **Computer Science** (L-31)
+- 🖥️ Bachelor’s Degree in **Computer Science (L-31)**
 
 - 📫 How to reach me **patricktrovatosalinaro13@gmail.com**
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
